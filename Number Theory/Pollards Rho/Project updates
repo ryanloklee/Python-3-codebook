@@ -1,0 +1,1 @@
+October 26th: Pollard's rho complete. Instead of using fermat little theorem, using x^3 + c function instead of x^2 + c. If the program continues to fail, I will attempt primality test
